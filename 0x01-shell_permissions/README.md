@@ -51,4 +51,4 @@ chown -h vincent:staff _hello >> script that changes the owner and the group own
 chown --from=guillaume betty hello >> Change owner of the file hello to betty only if it is currently owned by guillaume
 
 17. Star Wars
-telnet towel.blinkenlights.nl >> Write a script that will play the StarWars IV episode in the terminal.(searched online)
+telnet towel.blinkenlights.nl >> Write a script that will play the StarWars IV episode in the terminal. searched online
