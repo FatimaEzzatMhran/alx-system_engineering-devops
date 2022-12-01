@@ -1,0 +1,2 @@
+#!/bin/hash
+chown -h vincent:staff _hello
