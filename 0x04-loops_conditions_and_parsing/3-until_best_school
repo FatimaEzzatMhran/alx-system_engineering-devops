@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script displays Best School using until
+
+n=0
+
+until [ $n -gt 9 ]
+do 
+	echo "Best School"
+	(( n++ ))
+done
