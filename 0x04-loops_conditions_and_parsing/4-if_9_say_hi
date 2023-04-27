@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script displays Best School 10 times and in the 9th it says Hi
 
-n=1
+n=0
 
 while [ $n -lt 10 ]
 do
